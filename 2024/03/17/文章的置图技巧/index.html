@@ -16,22 +16,25 @@
   <meta name="author" content="Rikki">
   <meta name="keywords" content="">
   
-    <meta name="description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick">
+    <meta name="description" content="这部分是关于文章如何放置图片的一些记忆点">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Hello World">
-<meta property="og:url" content="http://example.com/2024/03/16/hello-world/index.html">
+<meta property="og:title" content="文章的置图技巧">
+<meta property="og:url" content="http://example.com/2024/03/17/%E6%96%87%E7%AB%A0%E7%9A%84%E7%BD%AE%E5%9B%BE%E6%8A%80%E5%B7%A7/index.html">
 <meta property="og:site_name" content="Rikkiの忆事屋">
-<meta property="og:description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick">
+<meta property="og:description" content="这部分是关于文章如何放置图片的一些记忆点">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2024-03-16T06:58:03.034Z">
-<meta property="article:modified_time" content="2024-03-16T17:06:11.031Z">
+<meta property="og:image" content="http://example.com/img/hend.jpg">
+<meta property="article:published_time" content="2024-03-16T16:42:53.000Z">
+<meta property="article:modified_time" content="2024-03-16T17:06:20.354Z">
 <meta property="article:author" content="Rikki">
+<meta property="article:tag" content="Fluid">
 <meta property="article:tag" content="Hexo">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="http://example.com/img/hend.jpg">
   
   
   
-  <title>Hello World - Rikkiの忆事屋</title>
+  <title>文章的置图技巧 - Rikkiの忆事屋</title>
 
   <link  rel="stylesheet" href="https://lib.baomitu.com/twitter-bootstrap/4.6.1/css/bootstrap.min.css" />
 
@@ -191,13 +194,13 @@
   
 
 <div id="banner" class="banner" parallax=true
-     style="background: url('/img/default.png') no-repeat center center; background-size: cover;">
+     style="background: url('/img/black.jpg') no-repeat center center; background-size: cover;">
   <div class="full-bg-img">
     <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
       <div class="banner-text text-center fade-in-up">
         <div class="h2">
           
-            <span id="subtitle" data-typed-text="Hello World"></span>
+            <span id="subtitle" data-typed-text="文章的置图技巧"></span>
           
         </div>
 
@@ -208,8 +211,8 @@
     
       <span class="post-meta">
         <i class="iconfont icon-date-fill" aria-hidden="true"></i>
-        <time datetime="2024-03-16 14:58" pubdate>
-          2024年3月16日 下午
+        <time datetime="2024-03-17 00:42" pubdate>
+          2024年3月17日 凌晨
         </time>
       </span>
     
@@ -220,7 +223,7 @@
       <span class="post-meta mr-2">
         <i class="iconfont icon-chart"></i>
         
-          18 字
+          165 字
         
       </span>
     
@@ -231,7 +234,7 @@
         
         
         
-          1 分钟
+          2 分钟
         
       </span>
     
@@ -268,24 +271,23 @@
       <div class="container nopadding-x-md" id="board-ctn">
         <div id="board">
           <article class="post-content mx-auto">
-            <h1 id="seo-header">Hello World</h1>
+            <h1 id="seo-header">文章的置图技巧</h1>
             
             
               <div class="markdown-body">
                 
-                <p>Welcome to <a target="_blank" rel="noopener" href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a target="_blank" rel="noopener" href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a target="_blank" rel="noopener" href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a target="_blank" rel="noopener" href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure>
+                <h2 id="封面图"><a href="#封面图" class="headerlink" title="封面图"></a>封面图</h2><p>对于单篇文章，在文章开头 front-matter (opens new window)中配置 index_img 属性。</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs bash">$<br>---<br>title: 文章标题<br>tags: [Hexo, Fluid]<br>index_img: /img/example.jpg <br><span class="hljs-built_in">date</span>: 2019-10-10 10:00:00<br>---<br>以下是文章内容<br></code></pre></td></tr></table></figure>
 
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure>
+<p>也可以使用外链 Url 的绝对路径。想统一给文章设置一个默认图片,可在主题配置中设置：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">$<br>post:<br>  default_index_img: /img/example.jpg<br></code></pre></td></tr></table></figure>
 
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure>
+<h2 id="文章顶部图"><a href="#文章顶部图" class="headerlink" title="文章顶部图"></a>文章顶部图</h2><p>默认显示主题配置中的 post.banner_img，如需要设置单个文章的 Banner，在 front-matter (opens new window)中指定 banner_img 属性。</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs bash">$<br>---<br>title: 文章标题<br>tags: [Hexo, Fluid]<br>index_img: /img/example.jpg<br>banner_img: /img/post_banner.jpg<br><span class="hljs-built_in">date</span>: 2019-10-10 10:00:00<br>---<br>以下是文章内容<br></code></pre></td></tr></table></figure>
 
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure>
+<h2 id="文章内容图片"><a href="#文章内容图片" class="headerlink" title="文章内容图片"></a>文章内容图片</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ <br>![](/img/example.jpg)<br></code></pre></td></tr></table></figure>
 
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<p><img src="/img/black2.jpg" srcset="/img/loading.gif" lazyload></p>
 
                 
               </div>
@@ -294,9 +296,32 @@
             <div>
               <div class="post-metas my-3">
   
+    <div class="post-meta mr-3 d-flex align-items-center">
+      <i class="iconfont icon-category"></i>
+      
+
+<span class="category-chains">
+  
+  
+    
+      <span class="category-chain">
+        
+  <a href="/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" class="category-chain-item">学习笔记</a>
+  
+  
+
+      </span>
+    
+  
+</span>
+
+    </div>
+  
   
     <div class="post-meta">
       <i class="iconfont icon-tags"></i>
+      
+        <a href="/tags/Fluid/" class="print-no-link">#Fluid</a>
       
         <a href="/tags/Hexo/" class="print-no-link">#Hexo</a>
       
@@ -310,8 +335,8 @@
 
   <div class="license-box my-3">
     <div class="license-title">
-      <div>Hello World</div>
-      <div>http://example.com/2024/03/16/hello-world/</div>
+      <div>文章的置图技巧</div>
+      <div>http://example.com/2024/03/17/文章的置图技巧/</div>
     </div>
     <div class="license-meta">
       
@@ -323,7 +348,7 @@
       
         <div class="license-meta-item license-meta-date">
           <div>发布于</div>
-          <div>2024年3月16日</div>
+          <div>2024年3月17日</div>
         </div>
       
       
@@ -350,6 +375,23 @@
 
 
 
+              
+                <div class="post-prevnext my-3">
+                  <article class="post-prev col-6">
+                    
+                    
+                  </article>
+                  <article class="post-next col-6">
+                    
+                    
+                      <a href="/2024/03/17/%E6%96%87%E7%AB%A0%E7%BD%AE%E9%A1%B6%E5%92%8C%E9%9A%90%E8%97%8F%E7%9A%84%E6%8A%80%E5%B7%A7/" title="文章置顶和隐藏的技巧">
+                        <span class="hidden-mobile">文章置顶和隐藏的技巧</span>
+                        <span class="visible-mobile">下一篇</span>
+                        <i class="iconfont icon-arrowright"></i>
+                      </a>
+                    
+                  </article>
+                </div>
               
             </div>
 
