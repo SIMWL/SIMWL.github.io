@@ -4,25 +4,27 @@
   
   
   <entry>
-    <title>songtest</title>
-    <link href="/2024/03/18/songtest/"/>
-    <url>/2024/03/18/songtest/</url>
+    <title>2024/3/17</title>
+    <link href="/2024/03/17/2024-3-17/"/>
+    <url>/2024/03/17/2024-3-17/</url>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>        <div id="aplayer-wsqnbDxM" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-wsqnbDxM"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "song",              author: "鹿乃",              url: "https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.mp3",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script> <div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"video":{"url":"https://qiniu.sukoshi.xyz/video/%E7%BE%8E.mp4","pic":"https://qiniu.sukoshi.xyz/video/%E7%BE%8E.mp4?vframe/jpg/offset/10"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="下午2-50分"><a href="#下午2-50分" class="headerlink" title="下午2:50分"></a>下午2:50分</h2><p>朋友请我喝杯奶茶, 和她看了一场电影–&lt;&lt;周处除三害&gt;&gt;<br>我不经常看电影,对于一个不怎么喜欢看电影的人来说,将近两个小时的时间眼睛没有一丝的松懈,我想这个电影对于大部分人来说还是值得一看的👍</p><img src="/img/20243171.jpg" class="" title="票根" alt="2024&#x2F;03&#x2F;17"><img src="/img/20243172.jpg" class="" title="周初除三害" alt="2024&#x2F;03&#x2F;17"><img src="/img/20243173.jpg" class="" title="你们不要过来" alt="2024&#x2F;03&#x2F;17"><h2 id="下午5点30分左右"><a href="#下午5点30分左右" class="headerlink" title="下午5点30分左右"></a>下午5点30分左右</h2><p>我剪了留了很久的头发<br>因为想早点回家继续写博客,我在回家的路上找了一家从没有进去过的理发店,头发即使留了很久,理发店的老板还是建议我去植个发😱<br>我想:这是我的第一次到这,也是我最后一次…并非我老板的这句话,而是在最后的最后,我发现在这理发是我平时经常去的店要贵上一倍😡</p><h2 id="晚上8点左右"><a href="#晚上8点左右" class="headerlink" title="晚上8点左右"></a>晚上8点左右</h2><p>和朋友散了一个半小时左右的步🚶<br>走了大约有一个半小时半,边走边聊,聊了很久,聊了很多<br>对了,她给了我两个不知道是什么的”饼”?不是很好吃,对于我来说太甜,听说一开始是冰的,但是我感觉就算它是冰的大概也不会很好吃吧,我好像并不怎么喜欢点心,饼干,面包,似乎一直如此<br>对于我这种人来说,”面包会有的,牛奶也会有的”大概也起不到一个望梅止渴的作用吧,毕竟我也不太喜欢喝牛奶<br>最后我们还遇到了一只黑猫,听说黑猫会带来好运,最近我遇到过三次,我想我大概是要撞大运了吧😂</p><img src="/img/20243174.jpg" class="" title="momaomao" alt="2024&#x2F;03&#x2F;17"><img src="/img/20243175.jpg" class="" title="猫猫,你看镜头!" alt="2024&#x2F;03&#x2F;17"><h2 id="晚上10点整"><a href="#晚上10点整" class="headerlink" title="晚上10点整"></a>晚上10点整</h2><p>去找申喜豪<br>散步末尾,申喜豪给我了一个电话,说去找🐎萨卡玩,有事和我说,看🐎萨卡打了一会游戏,就回家了<br>说是回家,其实也没有立刻回家,,中途的时候给国豪哥打了一个电话也和他聊了很久,接着又聊了一个半小时<br>只记得最后回家的时候已是3点钟,看了一眼手机,运动步数已经快到三万步,洗澡上床睡觉,我想明天应该又是睡到大中午了</p>]]></content>
     
     
     <categories>
       
-      <category>学习笔记</category>
+      <category>日记</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>Hexo</tag>
+      <tag>电影</tag>
       
-      <tag>Aplayer</tag>
+      <tag>日常</tag>
+      
+      <tag>运动</tag>
       
     </tags>
     
@@ -31,106 +33,17 @@
   
   
   <entry>
-    <title>文章的置图技巧</title>
-    <link href="/2024/03/17/%E6%96%87%E7%AB%A0%E7%9A%84%E7%BD%AE%E5%9B%BE%E6%8A%80%E5%B7%A7/"/>
-    <url>/2024/03/17/%E6%96%87%E7%AB%A0%E7%9A%84%E7%BD%AE%E5%9B%BE%E6%8A%80%E5%B7%A7/</url>
+    <title>Hello World</title>
+    <link href="/2024/03/16/hello-world/"/>
+    <url>/2024/03/16/hello-world/</url>
     
-    <content type="html"><![CDATA[<h2 id="封面图"><a href="#封面图" class="headerlink" title="封面图"></a>封面图</h2><p>对于单篇文章，在文章开头 front-matter (opens new window)中配置 index_img 属性。</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs bash">$<br>---<br>title: 文章标题<br>tags: [Hexo, Fluid]<br>index_img: /img/example.jpg <br><span class="hljs-built_in">date</span>: 2019-10-10 10:00:00<br>---<br>以下是文章内容<br></code></pre></td></tr></table></figure><p>也可以使用外链 Url 的绝对路径。想统一给文章设置一个默认图片,可在主题配置中设置：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">$<br>post:<br>  default_index_img: /img/example.jpg<br></code></pre></td></tr></table></figure><h2 id="文章顶部图"><a href="#文章顶部图" class="headerlink" title="文章顶部图"></a>文章顶部图</h2><p>默认显示主题配置中的 post.banner_img，如需要设置单个文章的 Banner，在 front-matter (opens new window)中指定 banner_img 属性。</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs bash">$<br>---<br>title: 文章标题<br>tags: [Hexo, Fluid]<br>index_img: /img/example.jpg<br>banner_img: /img/post_banner.jpg<br><span class="hljs-built_in">date</span>: 2019-10-10 10:00:00<br>---<br>以下是文章内容<br></code></pre></td></tr></table></figure><h2 id="文章内容图片"><a href="#文章内容图片" class="headerlink" title="文章内容图片"></a>文章内容图片</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ <br>![](/img/example.jpg)<br></code></pre></td></tr></table></figure><p><img src="/img/black2.jpg"></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
-    
-    <categories>
-      
-      <category>学习笔记</category>
-      
-    </categories>
     
     
     <tags>
       
       <tag>Hexo</tag>
-      
-      <tag>Fluid</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>文章置顶和隐藏的技巧</title>
-    <link href="/2024/03/17/%E6%96%87%E7%AB%A0%E7%BD%AE%E9%A1%B6%E5%92%8C%E9%9A%90%E8%97%8F%E7%9A%84%E6%8A%80%E5%B7%A7/"/>
-    <url>/2024/03/17/%E6%96%87%E7%AB%A0%E7%BD%AE%E9%A1%B6%E5%92%8C%E9%9A%90%E8%97%8F%E7%9A%84%E6%8A%80%E5%B7%A7/</url>
-    
-    <content type="html"><![CDATA[<h2 id="文章排序"><a href="#文章排序" class="headerlink" title="文章排序"></a>文章排序</h2><p>在文章开头 front-matter (opens new window)中配置 sticky 属性：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ ---<br>  title: 文章标题<br>  index_img: /img/example.jpg<br>  <span class="hljs-built_in">date</span>: 2019-10-10 10:00:00<br>  sticky: 100<br>  ---<br>  以下是文章内容<br></code></pre></td></tr></table></figure><p>sticky越大,文章越靠前</p><h3 id="关闭和修改前置图标"><a href="#关闭和修改前置图标" class="headerlink" title="关闭和修改前置图标"></a>关闭和修改前置图标</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ index:<br>   post_sticky:<br>    <span class="hljs-built_in">enable</span>: <span class="hljs-literal">true</span><br>    icon: <span class="hljs-string">&#x27;iconfont icon-top&#x27;</span><br></code></pre></td></tr></table></figure><p>前往主题配置修改</p><h2 id="隐藏文章"><a href="#隐藏文章" class="headerlink" title="隐藏文章"></a>隐藏文章</h2><p>把某些文章隐藏，不在首页和其他归档分类页里展示，可以在文章开头 front-matter (opens new window)中配置 hide: true 属性。</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ <br>---<br>title: 文章标题<br>index_img: /img/example.jpg<br><span class="hljs-built_in">date</span>: 2019-10-10 10:00:00<br>hide: <span class="hljs-literal">true</span><br>---<br>以下是文章内容<br><br></code></pre></td></tr></table></figure><h2 id="归档文章"><a href="#归档文章" class="headerlink" title="归档文章"></a>归档文章</h2><p>只是想让文章在首页隐藏，但仍需要在归档分类页里展示，可以在文章开头 front-matter (opens new window)中配置 archive: true 属性</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs bash">$<br>---<br>title: 文章标题<br>index_img: /img/example.jpg<br><span class="hljs-built_in">date</span>: 2019-10-10 10:00:00<br>archive: <span class="hljs-literal">true</span><br>---<br>以下是文章内容<br></code></pre></td></tr></table></figure>]]></content>
-    
-    
-    <categories>
-      
-      <category>学习笔记</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>Hexo</tag>
-      
-      <tag>Fluid</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>摘要</title>
-    <link href="/2024/03/17/%E6%91%98%E8%A6%81/"/>
-    <url>/2024/03/17/%E6%91%98%E8%A6%81/</url>
-    
-    <content type="html"><![CDATA[<p>如何做文章的摘要</p><span id="more"></span><h2 id="第一种"><a href="#第一种" class="headerlink" title="第一种"></a>第一种</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ 正文的一部分作为摘要<br>  &lt;!-- more --&gt;<br>  余下的正文<br></code></pre></td></tr></table></figure><h2 id="第二种"><a href="#第二种" class="headerlink" title="第二种"></a>第二种</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ ---<br>  title: 这是标题<br>  excerpt: 这是摘要<br>  ---<br></code></pre></td></tr></table></figure>]]></content>
-    
-    
-    <categories>
-      
-      <category>学习笔记</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>Hexo</tag>
-      
-      <tag>Fluid</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>导航菜单的设置</title>
-    <link href="/2024/03/16/%E5%AF%BC%E8%88%AA%E8%8F%9C%E5%8D%95%E7%9A%84%E8%AE%BE%E7%BD%AE/"/>
-    <url>/2024/03/16/%E5%AF%BC%E8%88%AA%E8%8F%9C%E5%8D%95%E7%9A%84%E8%AE%BE%E7%BD%AE/</url>
-    
-    <content type="html"><![CDATA[<h2 id="导航菜单的设置"><a href="#导航菜单的设置" class="headerlink" title="导航菜单的设置"></a>导航菜单的设置</h2><h3 id="一级菜单的设置"><a href="#一级菜单的设置" class="headerlink" title="一级菜单的设置"></a>一级菜单的设置</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ navbar:<br>  menu:<br>    - &#123; key: <span class="hljs-string">&#x27;home&#x27;</span>, <span class="hljs-built_in">link</span>: <span class="hljs-string">&#x27;/&#x27;</span>, icon: <span class="hljs-string">&#x27;iconfont icon-home-fill&#x27;</span> &#125;<br>    - &#123; key: <span class="hljs-string">&#x27;tag&#x27;</span>, <span class="hljs-built_in">link</span>: <span class="hljs-string">&#x27;/tags/&#x27;</span>, icon: <span class="hljs-string">&#x27;iconfont icon-tags-fill&#x27;</span> &#125;<br>    - &#123; key: <span class="hljs-string">&#x27;about&#x27;</span>, <span class="hljs-built_in">link</span>: <span class="hljs-string">&#x27;/about/&#x27;</span>, icon: <span class="hljs-string">&#x27;iconfont icon-user-fill&#x27;</span>, name: <span class="hljs-string">&#x27;联系我&#x27;</span> &#125;<br></code></pre></td></tr></table></figure><p>点击<a href="https://hexo.fluid-dev.com/docs/icon/#%E5%86%85%E7%BD%AE%E7%A4%BE%E4%BA%A4%E5%9B%BE%E6%A0%87">图标</a>查看原主题图标</p><p>自定义图标步骤<br>1.<a href="https://www.iconfont.cn/">lconfont</a>创建项目来管理和使用图标库,将所需图标添加至购物车，再通过购物车添加至所创建的项目中。在项目中可以下载至本地与生成在线链接，Iconfont 支持在阿里云的 CDN 中生成 CSS 或 JS 文件用来调用。<br>2.将链接替换到主题配置的iconfont配置项中，但注意替换后原内置的图标库将全部失效<br>3.通过自定义CSS引入，这样不会替换内置图标库</p><p>引入之后，图标第二行的 class 填入配置中的 css class 即可，例如 iconfont icon-email（注意 iconfont 不能删掉）。<br>在每次有删减项目中图标库目录时，需要点击重新生成链接并替换到配置链接。</p><h3 id="二级菜单的设置"><a href="#二级菜单的设置" class="headerlink" title="二级菜单的设置"></a>二级菜单的设置</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ navbar:<br>    menu:<br>  - &#123;<br>      key: <span class="hljs-string">&#x27;文档&#x27;</span>,<br>      icon: <span class="hljs-string">&#x27;iconfont icon-books&#x27;</span>,<br>      submenu: [<br>        &#123; key: <span class="hljs-string">&#x27;主题博客&#x27;</span>, <span class="hljs-built_in">link</span>: <span class="hljs-string">&#x27;https://hexo.fluid-dev.com/&#x27;</span> &#125;,<br>        &#123; key: <span class="hljs-string">&#x27;配置指南&#x27;</span>, <span class="hljs-built_in">link</span>: <span class="hljs-string">&#x27;https://hexo.fluid-dev.com/docs/guide/&#x27;</span> &#125;,<br>        &#123; key: <span class="hljs-string">&#x27;图标用法&#x27;</span>, <span class="hljs-built_in">link</span>: <span class="hljs-string">&#x27;https://hexo.fluid-dev.com/docs/icon/&#x27;</span> &#125;<br>        ]<br>    &#125;<br></code></pre></td></tr></table></figure>]]></content>
-    
-    
-    <categories>
-      
-      <category>学习笔记</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>Hexo</tag>
-      
-      <tag>Fluid</tag>
       
     </tags>
     
