@@ -4,6 +4,33 @@
   
   
   <entry>
+    <title>songtest</title>
+    <link href="/2024/03/18/songtest/"/>
+    <url>/2024/03/18/songtest/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>        <div id="aplayer-wsqnbDxM" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-wsqnbDxM"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "song",              author: "鹿乃",              url: "https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.mp3",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script> <div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"video":{"url":"https://qiniu.sukoshi.xyz/video/%E7%BE%8E.mp4","pic":"https://qiniu.sukoshi.xyz/video/%E7%BE%8E.mp4?vframe/jpg/offset/10"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>学习笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Hexo</tag>
+      
+      <tag>Aplayer</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>文章的置图技巧</title>
     <link href="/2024/03/17/%E6%96%87%E7%AB%A0%E7%9A%84%E7%BD%AE%E5%9B%BE%E6%8A%80%E5%B7%A7/"/>
     <url>/2024/03/17/%E6%96%87%E7%AB%A0%E7%9A%84%E7%BD%AE%E5%9B%BE%E6%8A%80%E5%B7%A7/</url>
@@ -20,9 +47,9 @@
     
     <tags>
       
-      <tag>Fluid</tag>
-      
       <tag>Hexo</tag>
+      
+      <tag>Fluid</tag>
       
     </tags>
     
@@ -47,9 +74,9 @@
     
     <tags>
       
-      <tag>Fluid</tag>
-      
       <tag>Hexo</tag>
+      
+      <tag>Fluid</tag>
       
     </tags>
     
@@ -74,9 +101,9 @@
     
     <tags>
       
-      <tag>Fluid</tag>
-      
       <tag>Hexo</tag>
+      
+      <tag>Fluid</tag>
       
     </tags>
     
@@ -101,9 +128,9 @@
     
     <tags>
       
-      <tag>Fluid</tag>
-      
       <tag>Hexo</tag>
+      
+      <tag>Fluid</tag>
       
     </tags>
     
